@@ -79,6 +79,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 
 <!-- Useful links -->
+### About The Project
 [Docker download](https://docs.docker.com/get-docker/)
 [MindsDB DOCS](https://docs.mindsdb.com/setup/self-hosted/docker)
 [mySQL DOCS](https://dev.mysql.com/doc/)
