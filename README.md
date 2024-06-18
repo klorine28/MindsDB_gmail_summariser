@@ -73,12 +73,16 @@ _Below is an example of how you can instruct your audience on installing and set
    ```js
    docker run --name mindsdb_container -p 47334:47334 -p 47335:47335 mindsdb/mindsdb
    ```
-5. open the Jupyter notebook and follow along
+5. open the Jupyter Notebook and follow along
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
+<!-- Useful links -->
+[Docker download](https://docs.docker.com/get-docker/)
+[MindsDB DOCS](https://docs.mindsdb.com/setup/self-hosted/docker)
+[mySQL DOCS](https://dev.mysql.com/doc/)
+[YouTube bot tutorial reference](https://youtu.be/X1LbMUTKsPI?si=Z4wFPPmz1DkzJKnM)
 
 
 
