@@ -16,14 +16,14 @@
 ## About The Project
 
 
-This project entails using the Mindsdb tool to make Gmail and Slack databases to then utilise their ML/LLM capabilities in order to make a very capable summarise bot.
+This project entails using the Mindsdb tool to create Gmail and Slack databases, leveraging MindsDB's ML/LLM capabilities to create a very capable summarise bot. The Repo has a jupyter notebook follow-along that describes what to do and how it is happening in more detail. There is also a Python file that should run smoothly once the API keys and credentials files are inserted. It is important beforehand that there is a container running MindsDB; otherwise, the connection won't be possible.
 
 Here's why:
-* your time is very important and getting a summary of your Emails will allow you to stay productive.
-* You shouldn't be losing time on checking your email constantly so automate it with this bot
-* You can make this as bespoke as you want this bot is quite brad and accepting of customization
+* your time is very important; getting a summary of your Emails will allow you to stay productive.
+* You shouldn't be losing time checking your email constantly, so automate it with this bot
+* You can make this as bespoke as you want. This bot is quite brad and accepting of customization
 
-Of course, this bot may not be exactly what you are looking for, but it hopefully becomes a template you change in order to make something amazing that works for you.
+Of course, this bot may not be exactly what you are looking for, but it hopefully becomes a template you can change to make something amazing that works for you.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -31,7 +31,7 @@ Of course, this bot may not be exactly what you are looking for, but it hopefull
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section should list any major frameworks/libraries that bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
@@ -46,7 +46,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-before running the Jupyter Notebook, I recommend installing Docker Hub. To do so, visit this link
+Before running the Jupyter Notebook, I recommend installing Docker Hub. To do so, visit this link.
 [Docker download](https://docs.docker.com/get-docker/)
 
 ### Prerequisites
@@ -80,10 +80,10 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <!-- Useful links -->
 ### Useful links
-*[Docker download](https://docs.docker.com/get-docker/)
-*[MindsDB DOCS](https://docs.mindsdb.com/setup/self-hosted/docker)
-*[mySQL DOCS](https://dev.mysql.com/doc/)
-*[YouTube bot tutorial reference](https://youtu.be/X1LbMUTKsPI?si=Z4wFPPmz1DkzJKnM)
+* [Docker download](https://docs.docker.com/get-docker/)
+* [MindsDB DOCS](https://docs.mindsdb.com/setup/self-hosted/docker)
+* [mySQL DOCS](https://dev.mysql.com/doc/)
+* [YouTube bot tutorial reference](https://youtu.be/X1LbMUTKsPI?si=Z4wFPPmz1DkzJKnM)
 
 
 
