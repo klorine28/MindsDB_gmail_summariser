@@ -1,7 +1,12 @@
 import mindsdb_sdk
+import os
 
+
+
+os.system("docker run --name mindsdb_container -p 47334:47334 -p 47335:47335 mindsdb/mindsdb")  
 # connects to the specified host and port
 server = mindsdb_sdk.connect('http://127.0.0.1:47334')
+
 
 
 gmail_access = server.create_database(
